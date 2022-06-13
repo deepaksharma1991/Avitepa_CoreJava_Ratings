@@ -1,0 +1,7 @@
+avitepa\corejava\ratings\exception\AssignmentCategoryException.class
+avitepa\corejava\ratings\service\DistributionService.class
+avitepa\corejava\ratings\service\domain\Assignment.class
+avitepa\corejava\ratings\service\AssignmentService.class
+avitepa\corejava\ratings\service\RatingsService.class
+avitepa\corejava\ratings\exception\ValidationException.class
+avitepa\corejava\ratings\App.class
