@@ -1,1 +1,1 @@
-# avitepa_corejava_ratings-main
+# avitepa_corejava_ratings
